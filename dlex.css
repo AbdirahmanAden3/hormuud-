@@ -1,0 +1,21 @@
+
+
+.bns{
+    width: 193px;
+   color: #000;
+   background: #f2f3f5;
+    height: 52px;
+    border: none;
+    border-radius: 48px;
+    font-weight: bold;
+}
+
+.bns:hover{
+    background: #01A550;
+    font-weight: bold;
+    width: 195;
+    color: #fff;
+    height: 55px;
+    border: none;
+    border-bottom: none;
+}
